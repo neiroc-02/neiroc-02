@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Connect with me on LinkedIn!
 - ⚡ Fun fact: I am a first-degree black belt in American Kenpo Karate.
 
-# 💫 About Me:
-
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neiro-cabrera) 
 
