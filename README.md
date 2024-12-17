@@ -4,14 +4,12 @@
 Here are some ideas to get you started:
 -->
 # 💫 About Me:
-- 🔭 I’m currently working on a full-stack web app for coding exams. I also have smaller projects planned to learn Go and Rust.
-- 🌱 I’m currently learning about full-stack design while practicing some DSA in Java and trying to learn Go and Rust in smaller scale projects.
+- 🔭 I’m currently working on a full-stack web app for coding exams. I am currently using Advent of Code to learn Go as I plan smaller scale projects in that language.
+- 🌱 I’m currently learning about full-stack design, practicing some DSA in Java, and trying to learn Go and Rust in smaller scale projects.
 - 👯 I’m looking to collaborate on any project involving full-stack design, low-level programming, or Internet of Things.
-<!--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
-- 📫 How to reach me: Connect with me on LinkedIn!
+- 🤔 I’m looking for help with getting started with different backend frameworks. I have interest in exploring Django or SpringBoot.
+- 💬 Ask me about Internet of Things! I love projects where I can use IOT to get microcontrollers to talk to one another.
+- 📫 How to reach me: Connect with me on LinkedIn! Or reach out to me at neirocabrera7@gmail.com.
 - ⚡ Fun fact: I am a first-degree black belt in American Kenpo Karate.
 
 ## 🌐 Socials:
